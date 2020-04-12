@@ -8,7 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "sweetalert2": "^9.10.10"
-  }
+  "dependencies": {}
 }
